@@ -25,5 +25,5 @@
 # Composer PHAR
 /composer.phar
 
-#
+# PhpStorm
 .idea/
